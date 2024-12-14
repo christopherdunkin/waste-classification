@@ -1,0 +1,12 @@
+test_images/
+
+test.ipynb
+
+.ipynb_checkpoints/
+
+realwaste/
+
+api/.ipynb_checkpoints/
+
+api/__pycache__/
+
